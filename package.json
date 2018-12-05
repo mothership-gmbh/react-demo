@@ -1,0 +1,13 @@
+{
+  "name": "mothership-react-demo",
+  "version": "1.0.0",
+  "description": "Wir integrieren React in eine bestehende App",
+  "main": "index.js",
+  "author": "Niklas Wolf",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-transform-react-jsx": "^7.0.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0-beta.2"
+  }
+}
