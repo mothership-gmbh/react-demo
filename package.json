@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Wir integrieren React in eine bestehende App",
   "main": "index.js",
-  "author": "Niklas Wolf",
+  "author": "Mothership GmbH",
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/plugin-transform-react-jsx": "^7.0.0",

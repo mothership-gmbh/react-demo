@@ -33,7 +33,7 @@ class Modal extends React.Component {
       width: "480",
       height: "270",
       frameBorder: "0",
-      class: "giphy-embed",
+      className: "giphy-embed",
       allowFullScreen: true
     }), React.createElement("p", null, React.createElement("a", {
       href: "https://giphy.com/gifs/9jumpin-wow-nice-well-done-xT77XWum9yH7zNkFW0"
